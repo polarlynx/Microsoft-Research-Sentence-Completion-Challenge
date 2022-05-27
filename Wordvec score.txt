@@ -1,0 +1,23 @@
+WikiNews-vectors bigram score: 0.22403846153846155
+WikiNews-vectors bigram score: 0.23461538461538461
+WikiNews-vectors bigram score: 0.2153846153846154
+WikiNews-vectors bigram score: 0.21923076923076923  
+WikiNews-vectors bigram score: 0.24326923076923077 
+
+WikiNews-vectors trigram score: 0.22596153846153846  
+WikiNews-vectors trigram score: 0.22596153846153846  
+WikiNews-vectors trigram score: 0.23557692307692307  
+WikiNews-vectors trigram score: 0.23173076923076924  
+WikiNews-vectors trigram score: 0.24519230769230768  
+
+GoogleNews-vectors bigram score: 0.23846153846153847
+GoogleNews-vectors bigram score: 0.23461538461538461
+GoogleNews-vectors bigram score: 0.22403846153846155
+GoogleNews-vectors bigram score: 0.23076923076923078
+GoogleNews-vectors bigram score: 0.22403846153846155
+
+GoogleNews-vectors trigram score: 0.22692307692307692
+GoogleNews-vectors trigram score: 0.225
+GoogleNews-vectors trigram score: 0.23942307692307693
+GoogleNews-vectors trigram score: 0.2201923076923077
+GoogleNews-vectors trigram score: 0.25096153846153846

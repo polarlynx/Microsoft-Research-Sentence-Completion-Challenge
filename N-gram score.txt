@@ -1,0 +1,47 @@
+left unigram score: 0.2528846153846154  
+left unigram score: 0.2567307692307692  
+left unigram score: 0.2625  
+left unigram score: 0.25384615384615383  
+left unigram score: 0.23942307692307693  
+
+left bigram score: 0.24615384615384617  
+left bigram score: 0.23942307692307693  
+left bigram score: 0.24134615384615385  
+left bigram score: 0.23942307692307693  
+left bigram score: 0.21826923076923077  
+
+left trigram score: 0.23461538461538461  
+left trigram score: 0.2221153846153846  
+left trigram score: 0.18365384615384617  
+left trigram score: 0.21057692307692308  
+left trigram score: 0.20096153846153847  
+
+left quadrigram score: 0.22596153846153846  
+left quadrigram score: 0.2125  
+left quadrigram score: 0.19807692307692307  
+left quadrigram score: 0.225  
+left quadrigram score: 0.18461538461538463  
+
+left&right unigram score: 0.2759615384615385  
+left&right unigram score: 0.23365384615384616  
+left&right unigram score: 0.24615384615384617   
+left&right unigram score: 0.25769230769230766  
+left&right unigram score: 0.26634615384615384  
+
+left&right bigram score: 0.23461538461538461  
+left&right bigram score: 0.22403846153846155  
+left&right bigram score: 0.20576923076923076 
+left&right bigram score: 0.2153846153846154  
+left&right bigram score: 0.21923076923076923  
+
+left&right trigram score: 0.29615384615384616  
+left&right trigram score: 0.21826923076923077  
+left&right trigram score: 0.2375  
+left&right trigram score: 0.2403846153846154  
+left&right trigram score: 0.23173076923076924  
+
+left&right quadrigram score: 0.22115384615384615  
+left&right quadrigram score: 0.2326923076923077  
+left&right quadrigram score: 0.23461538461538461  
+left&right quadrigram score: 0.21153846153846154  
+left&right quadrigram score: 0.2153846153846154  
